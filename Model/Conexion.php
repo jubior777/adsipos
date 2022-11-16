@@ -13,7 +13,7 @@ class Conexion {
         $user = 'root';
         $password = '';
         $server = 'localhost';
-        $database = 'adsmimed';
+        $database = 'adsipos';
         $this->con = new mysqli($server, $user, $password, $database);
     }
 
