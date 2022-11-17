@@ -34,7 +34,7 @@ t<!DOCTYPE html>
 
 <div class="container">
 
-    <form class="login-form" action="../proyecto cun/Controller/AccessUsers.php">
+    <form class="login-form" action="../cun/Controller/AccessUsers.php">
         <div class="login-wrap">
             <p class="login-img"><i class="icon_lock_alt"></i></p>
             <div class="input-group">
