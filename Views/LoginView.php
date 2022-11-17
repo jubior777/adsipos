@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+t<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="utf-8">
@@ -34,7 +34,7 @@
 
 <div class="container">
 
-    <form class="login-form" action="../adsipos/Controller/AccessUsers.php">
+    <form class="login-form" action="../proyecto cun/Controller/AccessUsers.php">
         <div class="login-wrap">
             <p class="login-img"><i class="icon_lock_alt"></i></p>
             <div class="input-group">
